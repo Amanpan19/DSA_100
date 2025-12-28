@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package leetcode153;
 
 public class FindMinInRotatedArray {
 
