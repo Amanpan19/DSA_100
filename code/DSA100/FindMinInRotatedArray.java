@@ -1,4 +1,4 @@
-package leetcode153;
+package DSA100;
 
 public class FindMinInRotatedArray {
 
