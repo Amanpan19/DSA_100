@@ -19,7 +19,6 @@ public class GroupAnagram {
     public static void main(String[] args) {
         String[] str = {"eat","tea","tan","ate","nat","bat"};
         List<List<String>> res = groupAnagram(str);
-        System.out.println(str);
         System.out.println(res);
     }
 }
